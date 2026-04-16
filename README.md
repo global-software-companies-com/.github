@@ -1,2 +1,0 @@
-# .github
-Global Software Companies
