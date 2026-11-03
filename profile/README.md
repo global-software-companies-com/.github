@@ -7,10 +7,28 @@ Global Software Companies is an independent market research firm that scores and
 ## Connect With Global Software Companies
 
 - [globalsoftwarecompanies.com](https://www.globalsoftwarecompanies.com/)
+- [Research data and downloads](https://www.globalsoftwarecompanies.com/research-data/)
 - [LinkedIn](https://www.linkedin.com/company/global-software-companies)
 - [X / Twitter](https://x.com/gsc_x0)
 - [Dev.to](https://dev.to/global-software-companies)
 - [YouTube](https://www.youtube.com/channel/UCg9rNGQRLQS1ZLkzeWkIecg)
+
+## Global Software Companies Research Data
+
+We publish the data behind our research so anyone can check our figures or run their own analysis. Every dataset is free to reuse, commercially too, under CC BY 4.0, and comes with a field guide to every column and a script that recomputes the figures in our articles.
+
+**Documentation, downloads and citations for all our datasets: [globalsoftwarecompanies.com/research-data](https://www.globalsoftwarecompanies.com/research-data/)**
+
+| Dataset | What it covers | Documentation | Repository |
+| --- | --- | --- | --- |
+| US entry-labeled software job listings | What 2,517 US software jobs labeled “Entry level” on LinkedIn in 2026 asked for: experience, education, skills, AI tools and 32,271 technology mentions | [Data page](https://www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset) | [us-entry-level-software-job-listings](https://github.com/global-software-companies-com/us-entry-level-software-job-listings) |
+| US entry-labeled software listings: screening file | How much experience each of 5,625 screened “Entry level” software listings asked for, plus every figure in our experience article | [Data page](https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file) | [entry-level-software-listings-screening-file](https://github.com/global-software-companies-com/entry-level-software-listings-screening-file) |
+| Selected CS degree AI and ML requirements | Whether 25 US and 21 European computer science programs required an AI or machine learning course, in 2021–22 and 2026–27 | [Data page](https://www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset) | [cs-degree-ai-ml-requirements](https://github.com/global-software-companies-com/cs-degree-ai-ml-requirements) |
+
+Research built on these datasets:
+
+- [We Analyzed 5,625 “Entry-Level” Software Jobs. Only 9% Explicitly Accepted Beginners.](https://www.globalsoftwarecompanies.com/entry-level-software-jobs-experience/)
+- [Do You Need a Degree for an Entry-Level Software Job? We Checked 2,517 Listings](https://www.globalsoftwarecompanies.com/do-you-need-a-degree-entry-level-software-jobs/)
 
 ## What Global Software Companies Does
 
